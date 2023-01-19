@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on youtube clone
-- 🌱 I’m currently learning Node.js, Express, and MongoDB
 - 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy drawing and playing soccer
 -->
 
@@ -16,7 +13,9 @@ Here are some ideas to get you started:
 
 ## I'm a software engineering student and a mechanical engineer!!
 
-- 🌱 I’m currently learning more about Node.js and Express 🤣
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on youtube clone
+- 🌱 I’m currently learning Node.js, Express, and MongoDB
 - 🥅 2023 Goals: build more complex projects like a youtube clone 
 - ⚡ Fun fact: I love to draw and play soccer
 
