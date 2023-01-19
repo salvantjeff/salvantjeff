@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 ## I'm a software engineering student and a mechanical engineer!!
 
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on youtube clone
 - 🌱 I’m currently learning more about Node.js, Express, and MongoDB.
 - 🥅 2023 Goals: build more complex projects like a youtube clone 
 - ⚡ Fun fact: I love to draw and play soccer
