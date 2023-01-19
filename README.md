@@ -39,6 +39,15 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="./img/typescript-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Webpack" width="26px" src="./img/webpack-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Jest" width="26px" src="./img/jest-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Firebase" width="26px" src="./img/firebase.png" style="padding-right:10px;" />
+<img align="left" alt="MATLAB" width="26px" src="./img/Matlab_Logo.png" style="padding-right:10px;" />
+<img align="left" alt="Arduino" width="26px" src="./img/arduino-logo2.png" style="padding-right:10px;" />
+<img align="left" alt="Ansys" width="26px" src="./img/ansys-logo.png" style="padding-right:10px;" />
+<img align="left" alt="SolidWorks" width="26px" src="./img/sw-logo.png" style="padding-right:10px;" />
+<img align="left" alt="AutoDesk" width="26px" src="./img/auto-desk-logo.png" style="padding-right:10px;" />
 
 <!--
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
