@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
 ## I'm a software engineering student and a mechanical engineer!!
 
-- 🌱 I’m currently learning more about Node.js and Express 🤣
+- 🌱 I’m currently learning more about Node.js and Express 
 - 🥅 2023 Goals: build more complex projects like a youtube clone 
 - ⚡ Fun fact: I love to draw and play soccer
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://salvantjt.wixsite.com/jeff-salvant#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://salvantjt.wixsite.com/jeff-salvant#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jeff-salvant/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jeff-salvant/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
