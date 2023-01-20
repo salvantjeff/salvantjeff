@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://salvantjt.wixsite.com/jeff-salvant#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://salvantjt.wixsite.com/jeff-salvant#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://jeff-salvant.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://jeff-salvant.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jeff-salvant/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jeff-salvant/#gh-dark-mode-only)
