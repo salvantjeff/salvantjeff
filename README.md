@@ -48,6 +48,5 @@ Here are some ideas to get you started:
 <img align="left" alt="MATLAB" width="26px" src="./img/Matlab_Logo.png" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="26px" src="./img/arduino-logo.png" style="padding-right:10px;" />
 <img align="left" alt="SolidWorks" width="26px" src="./img/sw-logo.jpg" style="padding-right:10px;" />
-<img align="left" alt="Ansys" width="26px" src="./img/ansys-logo.png" style="padding-right:10px;" />
-<img align="left" alt="Ansys" width="26px" src="./img/new-epxress-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="./img/new-epxress-logo.png" style="padding-right:10px;" />
 
