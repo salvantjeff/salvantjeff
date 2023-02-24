@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Jeff 👋 
 
-## I'm a software engineering student and a mechanical engineer!!
+## I'm a software engineering student and a mechanical engineer!
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on youtube clone
